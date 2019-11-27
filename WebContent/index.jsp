@@ -11,14 +11,58 @@
     <title>Hello, world!</title>
   </head>
   <body>
-    <h1>Hello, world!</h1>
     <div class="container-fluid">
-    </div>
+	</div>
+	<ul>
+		<li><a href="#"><img alt="Volver al Incio" src="imagenes/home.png"></img></a></li>
+		<li>Registrer</li>
+		<li>Sing In</li>
 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <iframe frameborder="0"  scrolling="no" width="520" height="700" src="https://statsdream.com/basketball/usa/nba/iframe/?type=table&sport=4&country=231&template=824&conference=Eastern Conference&team=&timezone=Pacific/Midway&time=24&po=1&ma=1&wi=1&los=1&pts=0&ng=0&form=1&width=520&height=700&font=Verdana&fs=12&lh=22&bg=FFFFFF&fc=333333&logo=1&tlink=1&ths=1&thb=1&thba=FFFFFF&thc=000000&bc=dddddd&hob=f5f5f5&hobc=ebe7e7&lc=333333&sh=1&hfb=1&hbc=3bafda&hfc=FFFFFF"></iframe><div style="text-align:center;"></div><a href="https://statsdream.com/basketball/usa/nba/"></a>
+  <iframe frameborder="0"  scrolling="no" width="520" height="700" src="https://statsdream.com/basketball/usa/nba/iframe/?type=table&sport=4&country=231&template=824&conference=Western Conference&team=&timezone=Pacific/Midway&time=24&po=1&ma=1&wi=1&los=1&pts=0&ng=0&form=1&width=520&height=700&font=Verdana&fs=12&lh=22&bg=FFFFFF&fc=333333&logo=1&tlink=1&ths=1&thb=1&thba=FFFFFF&thc=000000&bc=dddddd&hob=f5f5f5&hobc=ebe7e7&lc=333333&sh=1&hfb=1&hbc=3bafda&hfc=FFFFFF"></iframe><div style="text-align:center;"></div><a href="https://statsdream.com/basketball/usa/nba/"></a>
+  
+  
+   
+<form action="/action_page.php" method="post" >
+			
+				<p>
+					<label><strong>USUARIO:</strong></label> <input type="text"
+						name="user">
+				</p>
+				<p>
+					<label><strong>CONTRASEÑA:</strong></label> <input type="text"
+						name="pass">
+				</p>
+				<p>
+					<input type="radio" name="ren" value="ren">Recuerdame
+				</p>
+				<p>
+					<input type="submit" value="Enviar">
+					
+				</p>
+		</form>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+ 	</ul>
   </body>
 </html>
