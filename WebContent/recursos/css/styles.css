@@ -1,0 +1,45 @@
+#divJumbo {
+  text-align: center;
+  padding: 40px;
+  background: url(../../recursos/img/fondoJumbo.jpg) no-repeat;
+  background-size: cover;
+}
+
+#divJumbo .jumbotron {
+  border-radius: 20px;
+  padding: 40px;
+  background-color: rgba(255,255,255,0.90);
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+@media (min-width: 576px) {
+  #divJumbo .jumbotron {
+    padding: 20px;
+  }
+}
+
+#divHeader {
+  padding: 10px 10px;
+}
+
+.fa.fa-star {
+  font-size: 40px;
+}
+
+.fa.fa-shield {
+  font-size: 40px;
+}
+
+.fa.fa-plus {
+  font-size: 40px;
+}
+
+.zona-oscura {
+  background-color: rgb(251,190,134);
+}
+
+.navbar-light .navbar-brand {
+  margin-left: 20px;
+}
+
