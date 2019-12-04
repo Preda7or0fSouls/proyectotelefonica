@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Click the button to display the UTC date and time as a string.</p>
+
+<p id="demo"></p>
+<script>
+function myFunction() {
+  var d = new Date();
+  var n = d.toUTCString();
+  document.getElementById("demo").innerHTML = n;
+}
+
+
+
+
+window.onload = function(){
+window.setInterval(myFunction, 999);
+};
+
+
+</script>
+
+</body>
+</html>
